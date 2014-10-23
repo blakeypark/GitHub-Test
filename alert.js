@@ -1,3 +1,4 @@
 <script
 hello
+wasup?
 >/<script>
